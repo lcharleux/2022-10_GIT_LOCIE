@@ -4,9 +4,9 @@
 
 - [x] Introduction do GIT
 - [x] Cloning a repository
-- [ ] Work in a git repository
-- [ ] Make a commit
-- [ ] Push a commit 
-- [ ] Pull commits from a remote repository
-- [ ] Monitor changes in a file
-- [ ] Play all together !
+- [x] Work in a git repository
+- [x] Make a commit
+- [x] Push a commit 
+- [x] Pull commits from a remote repository
+- [x] Monitor changes in a file
+- [x] Play all together !
